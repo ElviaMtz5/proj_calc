@@ -19,4 +19,14 @@ def get_fractions(valor):
 def suma(a, b):
   sumandoa = get_fractions(a)
   sumandob = get_fractions(b)
+<<<<<<< HEAD
   return sumandoa + sumandob
+=======
+  return sumandoa + sumandob
+
+def multiplica(a, b):
+   
+    multiplicando = get_fractions(a)
+    multiplicador = get_fractions(b)
+    return multiplicando * multiplicador
+>>>>>>> mult
