@@ -1,0 +1,1 @@
+El proyecto consta en crear dos funciones para sumar y multiplicar dos números, esta fucnion podrá recibir fracciones o números enteros.
