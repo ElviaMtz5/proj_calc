@@ -15,3 +15,14 @@ def get_fractions(valor):
     except:
         print("Error de formato de numero")
         return numero
+
+def suma(a, b):
+  sumandoa = get_fractions(a)
+  sumandob = get_fractions(b)
+  return sumandoa + sumandob
+
+def multiplica(a, b):
+   
+    multiplicando = get_fractions(a)
+    multiplicador = get_fractions(b)
+    return multiplicando * multiplicador
